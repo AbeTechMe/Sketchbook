@@ -39,20 +39,3 @@
   | <a href="#" target="_blank">Algoritmos</a> | Implementações e estudos algorítmicos |
 
 </details>
-
-<details>
-  <summary>
-    <h2>📝 Commit Guidelines</h2>
-  </summary>
-  
-  Em alguns casos, anotações e descobertas sobre o processo são feitas em commits para documentar de forma prática o processo de aprendizado.
-   
-      📚 docs: para documentação
-    
-      🔧 fix: para correções
-   
-      ✨ feat: para novos recursos
-    
-      🧪 test: para testes
- 
-</details>
