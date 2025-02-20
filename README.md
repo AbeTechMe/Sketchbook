@@ -33,8 +33,8 @@
   Não é por ser rascunho que é bagunçado: A organizado aqui é por pastas de diferentes temas e dentro dos temas podem existir diferentes tecnologias.
   | 📂 Projetos | 📄 Descrição |
   |----------|--------------|
-  | <a href="https://github.com/AbeTechMe/Sketchbook/tree/main/formulas-matematicas-uteis" target="_blank">Algorítmos matemáticos</a> | Fórmulas úteis para programação |
-  | <a href="https://github.com/AbeTechMe/Sketchbook/tree/main/screenMatch" target="_blank">Consumo de API</a> | Prática com Java na API IMDB |
-  | <a href="https://github.com/AbeTechMe/Sketchbook/tree/main/Analise-Estatistica/metodos_estatisticos" target="_blank">Métodos de análise estatística</a> | Implementações de métodos de análise populacional |
+  | <a href="https://github.com/AbeTechMe/Sketchbook/tree/main/formulas-matematicas-uteis" target="_blank">Algorítmos matemáticos</a> | Fórmulas matemáticas e algorítmos usuáis para programação. |
+  | <a href="https://github.com/AbeTechMe/Sketchbook/tree/main/FipeApp" target="_blank">Consumo de API</a> | Prática com Java de consumo em API usando jackson para deserializar o JSON da API e Records com Stream para manipular os dados. |
+  |
 
 </details>
