@@ -1,0 +1,46 @@
+name: air_quality_monitor
+description: "A new Flutter Eletrogate app."
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.7.0
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  
+  flutter_hooks: ^0.20.5
+
+  # Ícones no estilo iOS
+  cupertino_icons: ^1.0.8
+
+  # Cliente MQTT para comunicação com dispositivos IoT
+  mqtt_client: ^9.8.1
+
+  # Gerenciamento de estado simplificado
+  provider: ^6.1.2
+
+  # Biblioteca para lidar com conversão de JSON
+  json_serializable: ^6.7.1
+
+  # Gerenciamento de logs na aplicação
+  logger: ^2.2.0
+
+  # Para requisições HTTP e comunicação com APIs
+  http: ^1.2.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  # Lints recomendadas para boas práticas de código
+  flutter_lints: ^5.0.0
+
+  # Ferramentas para geração de código a partir de anotações
+  build_runner: ^2.4.7
+
+flutter:
+  uses-material-design: true
